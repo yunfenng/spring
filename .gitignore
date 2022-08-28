@@ -1,0 +1,8 @@
+# Project exclude paths
+/demo-ioc-aop/target/
+/demo-others/target/
+/lagou-transfer/target/
+/lagou-transfer-ioc-anno/target/
+/lagou-transfer-ioc-xml-anno/target/
+/lagou-transfer-iocxml/target/
+/lagou-transfer-transaction/target/
